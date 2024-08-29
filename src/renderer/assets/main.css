@@ -1,0 +1,14 @@
+@import './base.css';
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.logo {
+  -webkit-user-drag: none;
+  height: 64px;
+  width: 64px;
+}
